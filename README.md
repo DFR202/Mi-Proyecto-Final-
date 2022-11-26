@@ -1,4 +1,4 @@
-# data-science-Proyecto Rindes de Cultivos
+# Data-science Proyect -  Rendimiento de los Cultivos
 ==============================
 
 ## Resumen
@@ -12,11 +12,8 @@ El objetivo de este trabajo es poder implementar un algoritmo predictivo de mach
 
 ## Conformación del equipo
 -Diego Ruiz
--Gianluca Amoroso
--Francisco Pucci
 -Bruno Rossi
--Juan Novo
--Matias Basso
+
 
 ## Criterio de selección
 Se definio para abordar la problematica en dividir la provincia de Bs As en dos grandes sectores (Norte - Sur), debido a la gran extensión de territorio y diferencia de suelo.  Se tomo las precipitaciones de dos departamentos (Junin - Tres Arroyos), y se considero las zonas con cercania de 60km.  Ademas, se consideraron los cultivos más significantes en Provincia tales como Avena, Cebada cervecera, Girasol, Maiz, Soja 1ra, Soja 2da, Soja total, Sorgo y Trigo.
@@ -38,8 +35,8 @@ A continuación se brinda el listado de variables utilizadas en el proyecto:
 
 -192602 TRES ARROYOS 1988-2022.xlsx / 192602 JUNIN AERO 1988-2022.xlsx
 °Fecha: dd/mm/aaaa
-°Temperatura máxima: 
-°Temperatura media:
+°Temperatura máxima: mediciones en centrigrados
+°Temperatura media:  mediciones en centrigrados
 °Temperatura minima: mediciones en centrigrados
 °Precipitación: mediciones en milimetros 
 
