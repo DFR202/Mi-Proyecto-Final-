@@ -13,6 +13,7 @@ El objetivo de este trabajo es poder implementar un algoritmo predictivo de mach
 ## Conformación del equipo
 -Diego Ruiz
 -Bruno Rossi
+-Gianluca Amoroso
 
 
 ## Criterio de selección
