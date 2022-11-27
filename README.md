@@ -10,9 +10,6 @@ El segundo dataset provisto por el Servicio Meteorologíco contiene la temperatu
 ## Objetivo de la Investigación
 El objetivo de este trabajo es poder implementar un algoritmo predictivo de machine learning que permita conocer los valores futuros de los cultivos en estudio en determinados departamentos, así como también responder a una serie de preguntas: ¿El rendimiento de los cultivos tiene un comportamiento predecible con respecto a otras variables? ¿Cúal será el rendimiento en un determinado periodo de tiempo? ¿Existe estacionalidad en los rendimientos? ¿Cómo son esos ciclos, si es que hay? ¿Es posible predecir el valor de una variable mediante el uso de otra?. Por supuesto que en la medida que se avance en el trabajo podrán surgir nuevas interrogantes.
 
-## Conformación del equipo
--Diego Ruiz
--Bruno Rossi
 
 
 ## Criterio de selección
